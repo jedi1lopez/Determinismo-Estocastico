@@ -1,2 +1,4 @@
 # Determinismo-Estocastico
 Repositorio del Determinismo Estocastico I
+
+Este trabajo fusiona la perspectiva filosófica del determinismo con la modelación estadística estocástica, demostrando que la aleatoriedad no excluye el orden, sino que puede ser interpretada como un estado transitorio de comprensión incompleta. La implementación en Python ejemplifica cómo un modelo sencillo puede capturar tanto la parte determinística como la aleatoria de un fenómeno real. En este sentido, el modelo representa una reconciliación metodológica entre la predictibilidad y la adaptabilidad, entre el control y la emergencia, entre el ser y el devenir, donde la incertidumbre no es un obstáculo, sino una herramienta epistemológica fundamental para construir los sistemas más robustos, interpretables y alineados con los principios éticos y racionales de la ciencia moderna
