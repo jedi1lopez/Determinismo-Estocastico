@@ -3,11 +3,11 @@ Repositorio del Determinismo Estocastico I
 
 Este trabajo fusiona la perspectiva filosófica del determinismo con la modelación estadística estocástica, demostrando que la aleatoriedad no excluye el orden, sino que puede ser interpretada como un estado transitorio de comprensión incompleta. La implementación en Python ejemplifica cómo un modelo sencillo puede capturar tanto la parte determinística como la aleatoria de un fenómeno real. En este sentido, el modelo representa una reconciliación metodológica entre la predictibilidad y la adaptabilidad, entre el control y la emergencia, entre el ser y el devenir, donde la incertidumbre no es un obstáculo, sino una herramienta epistemológica fundamental para construir los sistemas más robustos, interpretables y alineados con los principios éticos y racionales de la ciencia moderna
 
-Modelo autorregresivo de primer orden, conocido como AR (1,) ya que es un modelo muy común en series las temporales y en los contextos de las investigaciones, relacionado con la detección del fraude financiero mediante los modelos híbridos.
+Modelo autorregresivo de primer orden, conocido como AR-1 ya que es un modelo muy común en series las temporales y en los contextos de las investigaciones, relacionado con la detección del fraude financiero mediante los modelos híbridos.
 
-¿Qué es el Modelo AR (1)?
+¿Qué es el Modelo AR-1?
 
-El modelo autorregresivo de primer orden (AR (1)) es una herramienta estadística utilizada para modelar series temporales. Su nombre proviene de la idea de que el valor actual de una variable depende linealmente de su valor inmediatamente anterior, más un término de error aleatorio.
+El modelo autorregresivo de primer orden (AR-1) es una herramienta estadística utilizada para modelar series temporales. Su nombre proviene de la idea de que el valor actual de una variable depende linealmente de su valor inmediatamente anterior, más un término de error aleatorio.
 
 La fórmula general del modelo es:
 
@@ -23,9 +23,9 @@ y_(t-1): Valor de la serie en el periodo anterior.
 Este modelo pertenece a la familia de los modelos ARIMA (Box & Jenkins, 1976,) ampliamente usados en economía, finanzas, ingeniería y ciencias sociales para predecir los comportamientos futuros basados en datos históricos.
 
 
-¿Qué hace el Modelo AR (1)?
+¿Qué hace el Modelo AR-1?
 
-El modelo AR (1) tiene varias funciones clave:
+El modelo AR-1 tiene varias funciones clave:
 
 Predicción de valores futuros:
 
@@ -41,15 +41,15 @@ Si el coeficiente (φ) está entre (-1 ∧ 1,) el modelo es estacionario, lo que
 
 Detección de cambios en el comportamiento: 
 
-En el contexto de detección de fraude, el modelo AR (1) puede usarse como un modelo base para identificar desviaciones significativas del comportamiento esperado. Si una transacción se aparta demasiado de lo predicho, podría ser señal de actividad fraudulenta.
+En el contexto de detección de fraude, el modelo AR-1 puede usarse como un modelo base para identificar desviaciones significativas del comportamiento esperado. Si una transacción se aparta demasiado de lo predicho, podría ser señal de actividad fraudulenta.
 
-Ventajas del Modelo AR (1:)
+Ventajas del Modelo AR-1:
 
 Sencillez: Es fácil de entender, estimar e implementar.
 Interpretabilidad: El coeficiente (φ) tiene un significado claro sobre cómo el pasado influye en el presente.
-Base para modelos más complejos: Muchos modelos avanzados (como ARIMA, GARCH o redes neuronales recurrentes) parten de los conceptos básicos como los del AR (1.)
+Base para modelos más complejos: Muchos modelos avanzados (como ARIMA, GARCH o redes neuronales recurrentes) parten de los conceptos básicos como los del AR-1.
 
-Limitaciones del Modelo AR (1:)
+Limitaciones del Modelo AR-1:
 
 Solo captura relaciones lineales: No detecta patrones no lineales o complejos.
 No maneja estacionalidad: Para series con ciclos regulares, se necesitan modelos adicionales.
