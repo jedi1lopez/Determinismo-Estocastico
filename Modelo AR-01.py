@@ -1,4 +1,4 @@
-# Autor: Jetro López - UNESR, Venezuela
+# Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
 # Fecha: 2025-04-05
 # Descripción: Modelo AR-01 como ejemplo de determinismo estocástico
 # Este modelo muestra cómo un proceso aparentemente aleatorio
@@ -45,4 +45,5 @@ plt.grid(True)
 plt.show()
 
 # Firma final
+
 print("Ing. Jetro Ramón López Hernández.")
