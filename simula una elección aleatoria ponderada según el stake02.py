@@ -1,6 +1,7 @@
 """
 Archivo: simula una elección aleatoria ponderada según el stake.py
-Autor: Dr. Jetro López - UNESR, Venezuela
+# Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
+# Fecha: 2025-04-05
 Fecha: 2025-04-06
 Licencia: MIT
 Descripción:
