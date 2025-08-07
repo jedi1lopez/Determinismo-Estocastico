@@ -1,3 +1,5 @@
+# Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
+# Fecha: 2025-04-05
 import numpy as np
 
 np.random.seed(42)
