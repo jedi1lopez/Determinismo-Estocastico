@@ -1,8 +1,7 @@
 """
 Archivo: gestion_inventario_estocastico.py
-# Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
-# Fecha: 2025-04-05
-Fecha: 2025-04-07
+Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
+Fecha: 2025-04-05
 Licencia: MIT
 
 Descripción:
@@ -62,3 +61,4 @@ plt.legend()
 plt.grid(True, alpha=0.3)
 
 plt.show()
+
