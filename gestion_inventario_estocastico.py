@@ -1,6 +1,7 @@
 """
 Archivo: gestion_inventario_estocastico.py
-Autor: Dr. Jetro López - UNESR, Venezuela
+# Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
+# Fecha: 2025-04-05
 Fecha: 2025-04-07
 Licencia: MIT
 
@@ -59,4 +60,5 @@ plt.ylabel("Frecuencia")
 plt.axvline(costo_promedio, color='red', linestyle='--', label=f'Media: Bs. {costo_promedio:.2f}')
 plt.legend()
 plt.grid(True, alpha=0.3)
+
 plt.show()
