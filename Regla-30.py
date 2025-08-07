@@ -1,3 +1,5 @@
+# Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
+# Fecha: 2025-04-05
 def regla_30(inicial, pasos):
     ancho = len(inicial)
     for _ in range(pasos):
