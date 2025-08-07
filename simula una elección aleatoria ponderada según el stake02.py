@@ -1,8 +1,7 @@
 """
 Archivo: simula una elección aleatoria ponderada según el stake.py
-# Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
-# Fecha: 2025-04-05
-Fecha: 2025-04-06
+Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
+Fecha: 2025-04-05
 Licencia: MIT
 Descripción:
 Este script simula un mecanismo de elección aleatoria ponderada según el stake,
