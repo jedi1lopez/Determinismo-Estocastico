@@ -1,8 +1,7 @@
 """
 Archivo: prediccion_caidas_web.py
-# Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
-# Fecha: 2025-04-05
-Fecha: 2025-04-06
+Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
+Fecha: 2025-04-05
 Licencia: MIT
 
 Descripción:
