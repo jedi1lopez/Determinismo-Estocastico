@@ -1,4 +1,4 @@
-# Autores: Dennis Zavala & Jetro López - UNESR, Venezuela
+# Autores: Dennis Zavala & Jetro López - 
 # Fecha: 2025-04-05
 import numpy as np
 
